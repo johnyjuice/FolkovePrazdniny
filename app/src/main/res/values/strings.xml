@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Folkové Prázdniny</string>
+    <string name="title_home">Domů</string>
+    <string name="title_ucinkujici">Kapely</string>
+    <string name="title_program">Program</string>
+    <string name="title_menu">Menu</string>
+</resources>
